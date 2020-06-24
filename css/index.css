@@ -6,23 +6,23 @@
     border: 0;
 }
 .navs,.nav{
-    background-color: #293c55;
+    background-color: #204969;
     
 }
 a{
-    color:rgba(255,255,255,0.45)
+    color:#dadada
 }
 .nav,.content{
     width: 80%;
     margin: 0 auto;
 }
 .nav>li>a{
-    font-size: 16px;
+    font-size: 18px;
 }
 .nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover{
-    border-top: 4px solid #a9334c;
-    color: #fff;
-    background-color: #0e151f;
+    border-top: 4px solid #08ffc8;
+    color: #fff7f7;
+    background-color: #204969;
 }
 .nav li{
     margin-right: 15px;
@@ -38,7 +38,7 @@ a{
     margin-bottom: 12px;;
 }
 .list-group div{
-    background-color: #fff;
+    background-color: #dadada;
 }
 .list-group div img{
     width: 100%;
